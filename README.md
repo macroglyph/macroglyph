@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Macroglyph (Mykolas)</h1>
-<h3 align="center">Back-End Developer & Discord Bot Creator</h3>
+<h3 align="center">Back-End Developer & Discord Bot Engineer</h3>
 <p align="center">
-  💻 I specialize in JavaScript and have extensive experience in developing custom Discord bots.
+  💻 Focused on building efficient, scalable, and maintainable back-end systems using JavaScript. <br />
+  ⚙️ Experienced in creating custom Discord bots tailored to unique community needs. <br />
+  🚫 Not a designer — I specialize in logic, infrastructure, and clean code.
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
