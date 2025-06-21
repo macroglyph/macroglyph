@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Macroglyph (Mykolas)</h1>
-<h3 align="center">Front-End Developer & Discord Bot Creator</h3>
+<h3 align="center">Back-End Developer & Discord Bot Creator</h3>
 <p align="center">
-  💻 I specialize in HTML, CSS, JavaScript and have extensive experience in developing custom Discord bots.
+  💻 I specialize in JavaScript and have extensive experience in developing custom Discord bots.
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
